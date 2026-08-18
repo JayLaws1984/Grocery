@@ -1,2 +1,6 @@
 # Grocery
-List of produce and their frequency
+This projects allows the client to search through a list of grocery items sold throughout the day to he how many of the particular product was sold. It can be sorted by looking up the specific produce item or by printing a list of each item and their frequency. 
+I was able successfully create code that gave the client different methods of sorting through the information. I could have enhanced my code by adding boarding and making it more aesthetically pleasing. 
+The most challenging part of writing this code was making sure there was an error message if the file did not open properly. I was able to successfully complete this task but originally received an error message that the file did not open. I took advantage of the tutoring available at the university to assist with learning the concepts and finishing the program. 
+Some skills I will take from this program are learning how to use maps and sorting. Also knowing how to problem solve and correcting errors line while building code. I learned patience and to ask for help when I do not understand something. 
+I made this program maintainable, readable and adaptable by allowing for files to be uploaded daily and the code will still work as long as the text document is in the same format. It is readable because inline comments were added explaining what each part of the code does. 
